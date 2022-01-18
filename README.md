@@ -12,7 +12,8 @@ and instructor. My goals for this course are as follows:
 
 - To better organize large Python modules by reducing redundancies in functions, classes, and methods.
 - To master SQLite CRUD operations within Python.   
-- To optimize Python algorithm performance and speed when performed on large scales or computationally-heavy tasks
+- To optimize Python algorithm performance and speed when performed on large scales or computationally-heavy tasks.
+- To further develop skills using Git and Github.
 
 This course will make use of the free material readily available online. Specifically, many course sections and
 assignments will adopted from two books:
