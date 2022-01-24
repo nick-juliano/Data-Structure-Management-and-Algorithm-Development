@@ -24,3 +24,5 @@ As the course progresses, the Table of Contents below will be updated to reflect
 within this repository.
 ___
 ## Table of Contents
+
+1) [SQL CRUD Operations](SQL_CRUD_Operations)
