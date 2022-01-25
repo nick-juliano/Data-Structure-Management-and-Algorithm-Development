@@ -1,6 +1,6 @@
 # <u>Project 1</u>: SQL CRUD Operations within Python</u>
 
-## Purpose
+## Objectives
 - Create .db file
 - Create a table within the database
 - Update the table with additional information
