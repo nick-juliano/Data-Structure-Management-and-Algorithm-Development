@@ -26,3 +26,4 @@ ___
 ## Table of Contents
 
 1) [SQL CRUD Operations](SQL_CRUD_Operations)
+2) [Python Style Uniformity](Python_Style_Uniformity)
