@@ -10,9 +10,9 @@ With various ways to structure functions, classes, and methods within a package,
 necessary for clean code management. The [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 provides a format standard and best-practices rulebook for various actions within the Python language. 
 
-<i>Note: The object of this section will be the yet-to-be-published Python package in development for my current 
-research project. As such, no demonstrable example will be provided in this section, but will be referenced at a later 
-date.</i>
+<i>Note: The object of this section is [exohammer](https://github.com/nick-juliano/exohammer). Successful accomplishment
+of the objectives of <b>Project 2</b> will be determined by the cleanliness, effectiveness, and style conformity of 
+<b>exohammer</b>.
 
 ___
 ## Description
