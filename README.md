@@ -28,3 +28,4 @@ ___
 1) [SQL CRUD Operations](SQL_CRUD_Operations)
 2) [Python Style Uniformity](Python_Style_Uniformity)
 3) [Data Structures Within Python](Data_Structures/Data_Structures.ipynb)
+4) [Algorithm Development](Algorithm_Development/Problems.ipynb)
